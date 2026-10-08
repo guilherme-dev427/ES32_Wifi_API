@@ -458,11 +458,3 @@ Durante o desenvolvimento do projeto foram utilizados conceitos relacionados a:
 - Internet das Coisas
 
 ---
-
-## 👨‍💻 Autor
-
-**Nome do aluno:** SEU NOME
-
-**Instituição:** SENAI São Paulo
-
-**Atividade:** Desafio de Melhoria 05.1 — Dashboard Meteorológico
